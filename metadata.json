@@ -1,0 +1,5 @@
+{
+  "name": "Election Situation Room",
+  "description": "Real-time election monitoring and data collation platform.",
+  "requestFramePermissions": []
+}
